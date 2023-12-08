@@ -1,0 +1,14 @@
+matplotlib
+seaborn
+pandas
+numpy
+requests
+scikit-learn
+gdown
+streamlit
+pickle
+ast
+nltk
+PorterStemmer
+cosine_similarity
+CountVectorizer
